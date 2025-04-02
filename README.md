@@ -6,6 +6,6 @@ Este repositório contém diversos códigos Java desenvolvidos por mim, em sua m
 
 Este repositório também serve para organizar o perfil, tendo em vista que os códigos deste são diferentes dos presentes no repositório "FATEC".
 
-### Aviso
+## Aviso
 
-Toda a parte HTML do repositório se deve ao Velocity e suas referências para funcionar junto de um projeto Java.
+A parte "Frontend" que inclui o HTML, CSS e JS se deve por causa do projeto que utiliza o Velocity, uma ferramenta criada pela Apache.
