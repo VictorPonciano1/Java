@@ -19,7 +19,21 @@ Os Projeto e seus propósitos estão em ordem alfabética, igualmente a forma co
 + AnnotationTeste: Código para o uso e teste de annotations;
 + BancoDigital-Camadas: Uso de DAO e MVC para protótipo de banci digital;
 + BancoDigital-Conta: Protótipo de banco digital com funções client side;
-+
-+
-+
-+
++ ConverterTipos: Teste de conversão de tipos;
++ EstruturaCondicionalRepete: Uso e teste de Estruturas Condicionais;
++ GenericsPrimeiroTeste: Código feito para o teste do uso de Generics em Java;
++ HashMapExemplo: Primeiro teste de uso de HashMap;
++ HelloWorld: Código "Hello World", introdutório para iniciantes em programação;
++ JavaException-Poo: Teste do Tratamendo de Exceções do Java em conjunto com POO;
++ ListasJava: Contato inicial com Estrutura de Dados - List e ArrayList;
++ ListasJava2: Continuação do assunto de Estrutura de Dados;
++ MenuInfinito: Projeto utilizando estruturas condicionais e de repetição;
++ OperadoresLogicos: Uso dos operadores em Java;
++ PrimeiroProjetoThread: Primeiro teste de Threads em Java;
++ PrimeiroProjetoVelocity: Teste do uso do Apache Velocity em Java;
++ ProjetoCalculdora: Projeto simples de uma calculadora com uso de POO;
++ ProjetoCalculadoraSimples: Projeto iniciante usando apenas operações e operadores simples;
++ ProjetoDaLampada: Projeto básico para o treino de Orientação a Objetos;
++ ProjetoEnum: Primeiro contato com Enum e suas funcionalidades;
++ ProjetoEnumProprio: Uso de Enum feito de forma autoral;
++ ProjetoHeranca: Uso do Pilar Herança em POO para testes;
