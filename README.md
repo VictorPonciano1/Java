@@ -12,4 +12,12 @@ A parte "Frontend" que inclui o HTML, CSS e JS se deve por causa do projeto que 
 
 ## Projetos:
 
-Esta seção servirá como forma de indicar o propósito de cada Projeto realizado
+Esta seção servirá como forma de indicar o propósito de cada Projeto deste repositório.
+
++ AnnotationTeste: Código para o uso e teste de annotations;
++ BancoDigital-Camadas: Uso de DAO e MVC para protótipo de banci digital;
++ BancoDigital-Conta: Protótipo de banco digital com funções client side;
++
++
++
++
