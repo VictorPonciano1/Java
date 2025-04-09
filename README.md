@@ -37,3 +37,16 @@ Os Projeto e seus propósitos estão em ordem alfabética, igualmente a forma co
 + ProjetoEnum: Primeiro contato com Enum e suas funcionalidades;
 + ProjetoEnumProprio: Uso de Enum feito de forma autoral;
 + ProjetoHeranca: Uso do Pilar Herança em POO para testes;
++ ProjetoListaDeTarefas: Uso de POO em conjunto com Loops e Condicionais;
++ ProjetoLivraria: Feito com propriedades de POO;
++ ProjetoMatriz1: Primeiro teste do vetor composto, conhecido como Matriz;
++ TestandoArrays: Projeto simples para o teste e uso de Arrays;
++ TestandoSeguranca1: Primeiro teste de criação de duas funções Hash diferentes;
++ TestandoSeguranca2: Mais testes com funções Hash em Java;
++ TrabalhandoComConstrutores: Testando o uso de diferentes Construtores no mesmo projeto;
++ TratamentoDeErros: Código inicial para tratamento de erros/exceções;
++ TratamentoDeErros2: Novas práticas para o treino do tratamento de erros/exceções;
++ TratamentoDeErros3: Complemento das práticas de tratamento de erros/exceções;
++ TrienoOrientacaoObjetos1: Projeto simples usando a prática de orientação a objetos;
++ TreinoOrientacaoObjetos2: Complementação utilizando as práticas do treino 1;
++ bancodigitalTeste: Protótipo de banco digital com o uso de um projeto Maven e suas dependências;
