@@ -3,7 +3,7 @@ package AulaAnnotation;
 public class DeprecatedTeste {
 
 	void visualizar() {
-		System.out.println("Metodo Visualizar");
+		System.out.println("Metodo Visualizar"); //METODO EXIBIDO, SEM SER AFETADO PELA ANNOTATION
 	}
 	
 	@Deprecated
