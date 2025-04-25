@@ -8,7 +8,7 @@ Este repositório também serve para organizar o perfil, tendo em vista que os c
 
 ## Aviso
 
-A parte "Frontend" que inclui o HTML, CSS e JS se deve por causa do projeto que utiliza o Velocity, uma ferramenta criada pela Apache.
+A parte "Frontend" do repositório que inclui as Tecnologias Web como HTML, CSS e JS se deve por causa do projeto que utiliza o Velocity, uma ferramenta criada pela Apache (Similar ao Gradle ou Ant por exemplo - também originados da Apache).
 
 ## Projetos:
 
