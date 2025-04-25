@@ -23,6 +23,7 @@ public class Main {
 		int t = Integer.parseInt(texto1);
 		int t2 = Integer.parseInt(texto2);
 		
+		//SAIDA DE UM INTEIRO QUE ERA UMA STRING
 		System.out.println(t + t2);
 	}
 
