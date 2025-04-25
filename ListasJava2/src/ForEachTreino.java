@@ -9,9 +9,8 @@ public class ForEachTreino {
 
 		ArrayList<Double> boletim = new ArrayList<Double>();
 		
-		/* TAMBEM EH POSSIVEL INSERIR DADOS DE FORMA MANUAL
-		  boletim.add(10); - onde 10 = nota
-		 */
+		/* TAMBEM EH POSSIVEL INSERIR DADOS DE FORMA MANUAL - EXEMPLO:
+		  boletim.add(10); - onde 10 = nota */
 		
 		System.out.println("Digite as notas do aluno.\nDigite '0.0' para sair");
 		
