@@ -11,7 +11,7 @@ Projetos que estão localizados neste diretório:
 + HelloWorld: Código "Hello World", introdutório para iniciantes em programação;
 + JavaException-Poo: Teste do Tratamendo de Exceções do Java em conjunto com POO;
 + ListasJava2: Continuação do assunto de Estrutura de Dados;
-+ PrimeiroProjetoVelocity: Teste do uso do Apache Velocity em Java;
++ PrimeiroProjetoVelocity: Teste do uso do Apache Velocity em Java - acabou trazendo telas conhecidas como "Front-end" (HTML, CSS e JavaScript) para o projeto;
 + ProjetoEnumProprio: Uso de Enum feito de forma autoral;
 + ProjetoMatriz1: Primeiro teste do vetor composto, conhecido como Matriz;
 + TestandoSeguranca1: Primeiro teste de criação de duas funções Hash diferentes;
