@@ -23,5 +23,3 @@ Os Projeto e seus propósitos estão dividos em categorias, onde dentro do de ca
 ## Extras
 
 Projetos Extras que eu acho que merecem um maior destque.
-
-+ Client-App: Aplicação extra utilizando o estrutura de Arquitetura Hexagonal;
