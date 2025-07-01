@@ -19,4 +19,4 @@ Os Projeto e seus propósitos estão dividos em categorias, onde dentro do de ca
 + Bootcamp-Java1: Projetos do meu primeiro treinamento realizado;
 + Bootcamp-Java2: Projetos do segundo treinamento realizado por mim;
 + Pessoais-Projetos1: Projetos pessoais criados para treino e testar conhecimento;
-+ Pessoais-Projetos2: Projetos pessoais provenientes de uma parceria com outro Desenvolvedor;
++ Pessoais-Projetos2: Projetos pessoais provenientes de uma parceria com um Desenvolvedor amigo;
