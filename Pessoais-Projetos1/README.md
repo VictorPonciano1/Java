@@ -16,10 +16,10 @@ Projetos que estão localizados neste diretório:
 + ListasJava2: Continuação do assunto de Estrutura de Dados;
 + PrimeiroProjetoVelocity: Teste do uso do Apache Velocity em Java - acabou trazendo telas conhecidas como "Front-end" (HTML, CSS e JavaScript) para o projeto;
 + ProjetoEnumProprio: Uso de Enum feito de forma autoral;
-+ ProjetoFila1:
-+ ProjetoFilaSobreListaLigada:
-+ ProjetoListaLigada1:
-+ ProjetoListaLigada2:
++ ProjetoFila1: Treino do uso de estruturas de Fila FIFO;
++ ProjetoFilaSobreListaLigada: Projeto sobre Fila que utiliza uma Lista Ligada;
++ ProjetoListaLigada1: Projeto sobre Lista Ligada "encadeada";
++ ProjetoListaLigada2: Projeto sobre Lista Ligada "simples";
 + ProjetoMatriz1: Primeiro teste do vetor composto, conhecido como Matriz;
 + ProjetoPilha: Códigos para aprendizado e uso de "Pilha sobre Vetor"; 
 + TestandoSeguranca1: Primeiro teste de criação de duas funções Hash diferentes;
