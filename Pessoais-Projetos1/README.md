@@ -10,6 +10,7 @@ Projetos que estão localizados neste diretório:
 
 + ArvoreBinaria1: Projeto de Árvore Binária para introdução a estrutura;
 + ArvoreBinaria2: Projeto de Árvore Binária com busca binária (ABB);
++ ArvoreBinariaTreino: Treino sobre Árvore de Busca Binária e sua implementação;
 + Client-App: Aplicação extra utilizando o estrutura de Arquitetura Hexagonal;
 + HelloWorld: Código "Hello World", introdutório para iniciantes em programação;
 + JavaException-Poo: Teste do Tratamendo de Exceções do Java em conjunto com POO;
