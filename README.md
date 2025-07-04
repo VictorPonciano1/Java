@@ -16,6 +16,7 @@ Esta seção servirá como forma de indicar o propósito de cada Projeto deste r
 
 Os Projeto e seus propósitos estão dividos em categorias, onde dentro do de categoria/diretório está a "função"
 
++ Academicos: Projetos baseados naquilo abordado durante período acadêmico (faculdade);
 + Bootcamp-Java1: Projetos do meu primeiro treinamento realizado;
 + Bootcamp-Java2: Projetos do segundo treinamento realizado por mim;
 + Pessoais-Projetos1: Projetos pessoais criados para treino e testar conhecimento;
