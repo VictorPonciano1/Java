@@ -8,4 +8,8 @@ Todos os projetos possuem seus repositórios próprios.
 
 Projetos que estão localizados neste diretório: 
 
->"Por enquanto está vazio"
+- DesafioCamarote;
+- DesafioImovel;
+- DesafioLanchonete;
+- DesafioMulta;
+- DesafioMusica;
